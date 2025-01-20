@@ -1,0 +1,8 @@
+.monst2-link{display: block;width: 100%;background: #000;}
+.monst2-link img{margin: 0 auto;max-width: 1200px;width: 100%;}
+.big-monst2{display: block;}
+.small-monst2{display: none;}
+@media(max-width: 992px){.big-monst2{display: none;}.small-monst2{display: block;}}
+.wpcf7-response-output{border: none !important;}
+#wpcf7-f9-p7-o1 .wpcf7-response-output{color: #fff !important;}
+.main-navigation a{font-family: Hind, sans-serif;}
